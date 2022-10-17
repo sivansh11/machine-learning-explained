@@ -1,3 +1,3 @@
 # machine-learning-explained
 
-[gradient-decent](gradient_decent.ipynb)
+Markup : * [gradient-decent](gradient_decent.ipynb)
