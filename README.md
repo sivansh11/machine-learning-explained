@@ -1,4 +1,3 @@
 # machine-learning-explained
 
-## gradient decent
-[relative](gradient_decent.ipynb)
+[gradient-decent](gradient_decent.ipynb)
